@@ -4,3 +4,4 @@
  ## Where I'm from
  I am from Syria, Damascus,it is located in the middle east.My country is known for its' kind and caring people, and the amazing food and dishes.
 
+ <img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/dc6a4cbc-daa6-40d4-831a-23df11a1f8e1" />
